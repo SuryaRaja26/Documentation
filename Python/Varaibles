@@ -78,4 +78,12 @@ They are immutable data types, which means that changing the value of a number d
  One thing to keep in mind while using this method is that the string returned after slicing includes the character at the start index but not the character at the last index.
  
  
- 
+3)List
+ * dynamically sized arrays.
+ * used to store the collection of data. 
+ * Brackest[]
+ * single list may contain DataTypes like Integers, Strings, as well as Objects. 
+ * Lists are mutable, and hence, they can be altered even after their creation.
+ * Use the index operator [ ] to access an item in a list.
+ * The index must be an integer.
+ * Nested lists are accessed using nested indexing. 
